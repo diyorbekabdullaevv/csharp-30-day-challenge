@@ -1,0 +1,15 @@
+# C# / .NET
+bin/
+obj/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# User-specific files
+*.user
+*.suo
